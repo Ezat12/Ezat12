@@ -93,32 +93,32 @@
 ## 🔗 Professional
 
 <p align="left">
-  <a href="https://github.com/Ezat12">
-    <img src="https://cdn.simpleicons.org/github" width="40" height="40" alt="GitHub" />
+  <a href="https://github.com/Ezat12" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="40" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/ezat-elbery-97b849313/">
-    <img src="https://cdn.simpleicons.org/linkedin" width="40" height="40" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/ezat-elbery-97b849313/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
   &nbsp;
-  <a href="https://leetcode.com/ezat1234/">
-    <img src="https://cdn.simpleicons.org/leetcode" width="40" height="40" alt="LeetCode" />
+  <a href="https://leetcode.com/ezat1234/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="LeetCode" height="40" width="40" />
   </a>
 </p>
 
 ## 🌐 Social Media
 
 <p align="left">
-  <a href="https://twitter.com/ezatelbery1">
-    <img src="https://cdn.simpleicons.org/x" width="40" height="40" alt="X" />
+  <a href="https://twitter.com/ezatelbery1" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X / Twitter" height="40" width="40" />
   </a>
   &nbsp;
-  <a href="https://facebook.com/ezat.elberry">
-    <img src="https://cdn.simpleicons.org/facebook" width="40" height="40" alt="Facebook" />
+  <a href="https://facebook.com/ezat.elberry" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
   </a>
   &nbsp;
-  <a href="https://instagram.com/ezatelberry">
-    <img src="https://cdn.simpleicons.org/instagram" width="40" height="40" alt="Instagram" />
+  <a href="https://instagram.com/ezatelberry" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
   </a>
 </p>
 
