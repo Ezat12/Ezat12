@@ -102,8 +102,8 @@
   </a>
   &nbsp;
   <a href="https://leetcode.com/ezat1234/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="LeetCode" height="40" width="40" />
-  </a>
+  <img src="https://cdn.simpleicons.org/leetcode" alt="LeetCode" height="40" width="40" />
+</a>
 </p>
 
 ## 🌐 Social Media
