@@ -107,16 +107,4 @@
 </a>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ezat12&show_icons=true&locale=en&layout=compact" alt="Ezat12" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Ezat12&show_icons=true&locale=en" alt="Ezat12" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ezat12" alt="Ezat12" />
-</p>
