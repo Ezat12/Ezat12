@@ -93,12 +93,16 @@
 ## 🔗 Professional
 
 <p align="left">
+  <a href="https://github.com/Ezat12">
+    <img src="https://cdn.simpleicons.org/github" width="40" height="40" alt="GitHub" />
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/ezat-elbery-97b849313/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+    <img src="https://cdn.simpleicons.org/linkedin" width="40" height="40" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://leetcode.com/ezat1234/">
-    <img src="https://skillicons.dev/icons?i=leetcode" width="40" />
+    <img src="https://cdn.simpleicons.org/leetcode" width="40" height="40" alt="LeetCode" />
   </a>
 </p>
 
@@ -106,17 +110,18 @@
 
 <p align="left">
   <a href="https://twitter.com/ezatelbery1">
-    <img src="https://skillicons.dev/icons?i=twitter" width="40" />
+    <img src="https://cdn.simpleicons.org/x" width="40" height="40" alt="X" />
   </a>
   &nbsp;
   <a href="https://facebook.com/ezat.elberry">
-    <img src="https://skillicons.dev/icons?i=facebook" width="40" />
+    <img src="https://cdn.simpleicons.org/facebook" width="40" height="40" alt="Facebook" />
   </a>
   &nbsp;
   <a href="https://instagram.com/ezatelberry">
-    <img src="https://skillicons.dev/icons?i=instagram" width="40" />
+    <img src="https://cdn.simpleicons.org/instagram" width="40" height="40" alt="Instagram" />
   </a>
 </p>
+
 
 ---
 
