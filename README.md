@@ -78,17 +78,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ezat12&show_icons=true&hide_border=true" alt="Ezat's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezat12&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
-
----
 
 ## 🔗 Professional
 
