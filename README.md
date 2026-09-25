@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Ezat12">
-    <img src="https://komarev.com/ghpvc/?username=Ezat12&label=Profile%20Views&color=0e75b6&style=flat" alt="Ezat12" />
+    <img src="https://komarev.com/ghpvc/?username=Ezat12&label=Profile%20Views&style=flat" alt="Profile Views" />
   </a>
 </p>
 
@@ -40,7 +40,7 @@
 
 **Node.js · Express.js · REST APIs · JWT · Socket.io · Zod · Authentication & Authorization**
 
-### 🗄️ Databases & ORM
+### 🗄️ Databases & ORMs
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" />
@@ -78,8 +78,7 @@
 
 ---
 
-
-## 📊 GitHub
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ezat12&show_icons=true&hide_border=true" alt="Ezat's GitHub Stats" />
@@ -91,7 +90,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🔗 Professional
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ezat-elbery-97b849313/">
@@ -100,6 +99,22 @@
   &nbsp;
   <a href="https://leetcode.com/ezat1234/">
     <img src="https://skillicons.dev/icons?i=leetcode" width="40" />
+  </a>
+</p>
+
+## 🌐 Social Media
+
+<p align="left">
+  <a href="https://twitter.com/ezatelbery1">
+    <img src="https://skillicons.dev/icons?i=twitter" width="40" />
+  </a>
+  &nbsp;
+  <a href="https://facebook.com/ezat.elberry">
+    <img src="https://skillicons.dev/icons?i=facebook" width="40" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/ezatelberry">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" />
   </a>
 </p>
 
