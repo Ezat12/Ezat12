@@ -43,7 +43,7 @@
 ### 🗄️ Databases & ORMs
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,drizzle" />
 </p>
 
 **PostgreSQL · MongoDB · SQL · Prisma · Drizzle ORM · Mongoose**
