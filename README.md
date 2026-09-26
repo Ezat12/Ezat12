@@ -27,7 +27,7 @@
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp,py,sql" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,py" />
 </p>
 
 **JavaScript (ES6+) · TypeScript · C++**
@@ -46,7 +46,7 @@
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,drizzle" />
 </p>
 
-**PostgreSQL · MongoDB · SQL · Prisma · Drizzle ORM · Mongoose**
+**PostgreSQL · MySQL · MongoDB · SQL · Prisma · Drizzle ORM · Mongoose**
 
 ### 🎨 Frontend Development
 
