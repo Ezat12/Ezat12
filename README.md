@@ -27,7 +27,7 @@
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,py" />
 </p>
 
 **JavaScript (ES6+) · TypeScript · C++**
