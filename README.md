@@ -14,7 +14,6 @@
 
 * 🎓 Computer Science Graduate
 * 💻 Focused on **Backend & Full-Stack Development**
-* 🚀 Currently working on **MindEcho**, an AI-powered mental wellness platform
 * 🌱 Currently learning **Docker, Redis, BullMQ & Advanced Backend Development**
 * 🧠 Interested in **Clean Architecture, SOLID, REST APIs & Scalable Backend Systems**
 * 🤝 Open to collaborating on **Backend and Full-Stack projects**
