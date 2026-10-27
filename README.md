@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 Computer Science Graduate
+* 🎓 Computer Science Graduat
 * 💻 Focused on **Backend & Full-Stack Development**
 * 🌱 Currently learning **Docker, Redis, BullMQ & Advanced Backend Development**
 * 🧠 Interested in **Clean Architecture, SOLID, REST APIs & Scalable Backend Systems**
